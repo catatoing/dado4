@@ -220,3 +220,5 @@ shoulder.go_pos(int(input("Enter position: ")))
 
 while True:
     shoulder.update()
+
+#Actualizar Shoulder GoPose, Update, leer angulo
